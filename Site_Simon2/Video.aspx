@@ -12,36 +12,36 @@
                       <tr>
                           <td>
                               <iframe id="player" type="text/html" height="174px"
-                                  src="http://www.youtube.com/embed/GCjXmFfzM8I?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/GCjXmFfzM8I?enablejsapi=1&origin=http://example.com"
                                   frameborder="0" style="width: 309px; margin-top: 1px"></iframe>
                           </td>
                           <td>
 
                               <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/lk6cJiN9rlg?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/lk6cJiN9rlg?enablejsapi=1&origin=http://example.com"
                                   frameborder="0"></iframe>
 
                           </td>
                           <td>
                               <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/BiuIvLj1dLk?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/BiuIvLj1dLk?enablejsapi=1&origin=http://example.com"
                                   frameborder="0"></iframe>
                           </td>
                       </tr>
                       <tr>
                           <td>
                               <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/Bkz2cPqwbPE?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/Bkz2cPqwbPE?enablejsapi=1&origin=http://example.com"
                                   frameborder="0"></iframe>
                           </td>
                           <td>
                               <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/sZkqudqtuzI?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/sZkqudqtuzI?enablejsapi=1&origin=http://example.com"
                                   frameborder="0"></iframe>
                           </td>
                           <td>
                               <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/YZ1Nc3KR5bM?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/YZ1Nc3KR5bM?enablejsapi=1&origin=http://example.com"
                                   frameborder="0" style="margin-top: 1px"></iframe>
                               
                           </td>
@@ -49,11 +49,11 @@
                       <tr>
                           <td>
                               <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/6XTHLOqTbGI?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/6XTHLOqTbGI?enablejsapi=1&origin=http://example.com"
                                   frameborder="0"></iframe>
                           </td>
                           <td> <iframe id="player" type="text/html" width="309px" height="174px"
-                                  src="http://www.youtube.com/embed/BwH5OB9RvUc?enablejsapi=1&origin=http://example.com"
+                                  src="https://www.youtube.com/embed/BwH5OB9RvUc?enablejsapi=1&origin=http://example.com"
                                   frameborder="0"></iframe></td>
                           <td>&nbsp;</td>
                       </tr>
