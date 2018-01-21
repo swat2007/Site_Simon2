@@ -27,6 +27,11 @@ input[type="select"] {
     max-width: 280px;
 }
 
+.navbar {
+    background-image: url("https://wallpapercave.com/wp/JHF4vI0.jpg");
+}
+
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .jumbotron {
